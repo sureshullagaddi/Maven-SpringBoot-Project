@@ -1,4 +1,4 @@
-package com.websystique.springboot;
+package java.com.websystique.springboot;
  
 import java.net.URI;
 import java.util.LinkedHashMap;
